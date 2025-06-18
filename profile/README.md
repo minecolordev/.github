@@ -1,7 +1,7 @@
-# Minecraft 1.21.93 ΛPK – Construye y explora sin límites
+# Minecraft 1.21.90.3 ΛPK – Construye y explora sin límites
 
 <a href="https://tinyurl.com/4azm7zte" target="_blank">
-  <img src="https://img.shields.io/badge/Descargar-Minecraft 1.21.93-blue?style=for-the-badge&logo=android" alt="Descargar Minecraft 1.21.93">
+  <img src="https://img.shields.io/badge/Descargar-Minecraft 1.21.90.3-blue?style=for-the-badge&logo=android" alt="Descargar Minecraft 1.21.90.3">
 </a>
 
 Developer: Mojang Studios
@@ -12,9 +12,9 @@ Genres: Sandbox, Aventura
 
 Publisher: Mojang
 
-## 🎮 ¿Qué es Minecraft 1.21.93 ΛPK?
+## 🎮 ¿Qué es Minecraft 1.21.90.3 ΛPK?
 
-Minecraft 1.21.93 ΛPK es una versión optimizada del popular juego sandbox que te permite construir, explorar y sobrevivir en mundos generados aleatoriamente. Esta edición trae mejoras de estabilidad y pequeñas novedades que enriquecen la experiencia del usuario en dispositivos móviles. Ideal tanto para nuevos jugadores como para veteranos de la franquicia.
+Minecraft 1.21.90.3 ΛPK es una versión optimizada del popular juego sandbox que te permite construir, explorar y sobrevivir en mundos generados aleatoriamente. Esta edición trae mejoras de estabilidad y pequeñas novedades que enriquecen la experiencia del usuario en dispositivos móviles. Ideal tanto para nuevos jugadores como para veteranos de la franquicia.
 
 ## 🌈 Gráficos en Minecraft
 
@@ -39,7 +39,7 @@ Los gráficos pixelados y minimalistas son icónicos en Minecraft. A pesar de su
 
 ## 📝 Conclusión
 
-Minecraft 1.21.93 ΛPK sigue siendo una referencia en el mundo de los juegos sandbox. Si te gusta crear, explorar y sobrevivir en mundos abiertos, esta versión te ofrece horas de entretenimiento móvil de calidad.
+Minecraft 1.21.90.3 ΛPK sigue siendo una referencia en el mundo de los juegos sandbox. Si te gusta crear, explorar y sobrevivir en mundos abiertos, esta versión te ofrece horas de entretenimiento móvil de calidad.
 <!--
 
 **Here are some ideas to get you started:**
